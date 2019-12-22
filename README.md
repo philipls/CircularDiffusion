@@ -36,15 +36,25 @@ IV. Calling Conventions
 Help calls: "help paicircle11", etc. gives the calling conventions:
 
 >> help paicircle11
+
 ==========================================================================
+
 Circular diffusion with drift anisotropies for color circle task.
+
 Rectangular variability in criterion.
+
 [ll,qaic,qbic,Pred,Gstuff] =  paicircle11(Pvar, Pfix, Sel, Data, trace)
+
 P = [v1...v3b, eta1a....eta3b, a, Ter, b1...b3, alpha, a1...a3, sa, pi1]
+
            1...6         7...12    13, 14,  15..17     18   19...21  22  23
+
 'Data' is a 3-element cell array
+
 3-category version (S1 and S2)
+
 Overdispersion set internally.
+
 ===========================================================================
 
 
