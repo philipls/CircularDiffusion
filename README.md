@@ -36,6 +36,7 @@ IV. Calling Conventions
 Help calls: "help paicircle11", etc. gives the calling conventions:
 
 >> help paicircle11
+
   ==========================================================================
   Circular diffusion with drift anisotropies for color circle task.
   Rectangular variability in criterion.
@@ -46,6 +47,7 @@ Help calls: "help paicircle11", etc. gives the calling conventions:
    3-category version (S1 and S2)
    Overdispersion set internally.
   ===========================================================================
+
 
 For paicircle11, the call is:
 
